@@ -1,0 +1,3 @@
+don't enter wide or noball on last ball means over == 0.5
+in second inning enter runs same as require runs 
+don't enter wide or noall or legbye and bye or wicket in first over of seond inning
