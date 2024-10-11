@@ -1,6 +1,6 @@
 -- frontend folder having some issue so it can't upload here--
 
-
+# cricket-scoring-original is real repo
 
 CRICKET-SCORER 
 Technologies: Django, React, REST APIs, JavaScript, CSS, MySQL
